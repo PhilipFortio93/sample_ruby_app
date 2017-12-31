@@ -21,3 +21,5 @@
 /yarn-error.log
 
 .byebug_history
+# Ignore spring when using guard for automated testing
+/spring/*.pid
